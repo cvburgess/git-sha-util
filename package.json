@@ -6,10 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "git-sha": "./bin/cli"
+  },
   "repository": "https://github.com/cvburgess/git-sha-util",
   "author": "Charles Burgess <consulting@cvburgess.com> (https://cvburgess.com)",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.3.4"
+    "bluebird": "^3.3.4",
+    "commander": "^2.9.0"
   }
 }
