@@ -6,8 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "https://github.com/cvburgess/git-sha-util",
   "author": "Charles Burgess <consulting@cvburgess.com> (https://cvburgess.com)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bluebird": "^3.3.4"
   }
