@@ -1,0 +1,14 @@
+{
+  "name": "git-sha-util",
+  "version": "1.0.0",
+  "description": "Utility for getting the current HEAD SHA value from git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Burgess <consulting@cvburgess.com> (https://cvburgess.com)",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.3.4"
+  }
+}
