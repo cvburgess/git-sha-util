@@ -1,6 +1,6 @@
 {
   "name": "git-sha-util",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Utility for getting the current HEAD SHA value from git",
   "main": "index.js",
   "scripts": {
